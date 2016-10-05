@@ -1,0 +1,2 @@
+
+Built a physics-based jumping game like 'doodle jump' by implementing the gravity, spring force, damping force, collision response, rigid body constraints, and the gameplay logic, taking advantage of an existing engine FOSSSim that takes care of frame rendering.
